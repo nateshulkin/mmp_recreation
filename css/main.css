@@ -6,3 +6,22 @@
 h3 {
   color: red;
 }
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+  border: 3px solid grey;
+}
+
+.data2 {
+  text-align: right;
+}
+
+tbody tr:nth-child(odd) {
+  background-color:#C1DFD2;
+}
+
+tbody tr:nth-child(even) {
+  background-color: white;
+}
