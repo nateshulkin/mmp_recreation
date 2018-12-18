@@ -33,3 +33,10 @@ tbody tr:nth-child(even) {
 .two {
   list-style: square;
 }
+
+.box {
+  border-width: 6.5px;
+  border-radius: 13px;
+  border-style: double;
+  text-align: center;
+}
