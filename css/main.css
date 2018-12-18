@@ -25,3 +25,11 @@ tbody tr:nth-child(odd) {
 tbody tr:nth-child(even) {
   background-color: white;
 }
+
+.one {
+  list-style: circle;
+}
+
+.two {
+  list-style: square;
+}
